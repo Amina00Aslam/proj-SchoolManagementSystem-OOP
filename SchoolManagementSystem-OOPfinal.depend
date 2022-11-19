@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1595448921 source:c:\users\hp\desktop\ss\schoolmanagementsystem-oopfinal\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1597521216 source:e:\documents\codeblocks\c++\object oriented programming\schoolmanagementsystem-oopfinal\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<string>
+	<string.h>
+	<stdio.h>
+	<windows.h>
+
